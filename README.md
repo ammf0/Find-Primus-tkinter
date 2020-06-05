@@ -1,2 +1,2 @@
-# Find-Primus-tkinter
-Find Prime Numbers Game with Tkinter
+# Flappy-Primus
+Find Prime Numbers Game with Tkinter Python Library
