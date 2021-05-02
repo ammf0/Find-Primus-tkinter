@@ -149,7 +149,7 @@ class Primus(tk.Tk):
 
 	def quit_g(self):
 		if (messagebox.askyesno("Quit Game", "Are You Sure?")):
-			self.quit()
+			self.destroy()
 
 	def restart_g(self):
 		if (messagebox.askyesno("Restart Game", "Are You Sure?")):
